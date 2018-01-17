@@ -1,0 +1,41 @@
+
+spacepack.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+actualbg
+  rotate: false
+  xy: 2, 128
+  size: 800, 800
+  orig: 800, 800
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 105, 106
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+bigrock
+  rotate: false
+  xy: 2, 42
+  size: 101, 84
+  orig: 101, 84
+  offset: 0, 0
+  index: -1
+playerShip1_blue
+  rotate: false
+  xy: 2, 2
+  size: 50, 38
+  orig: 50, 38
+  offset: 0, 0
+  index: -1
+ufoGreen
+  rotate: false
+  xy: 804, 878
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
